@@ -67,6 +67,7 @@ def main():
         'catgirl': pygame.image.load('images/catgirl.png'),
         'horngirl': pygame.image.load('images/horngirl.png'),
         'pinkgirl': pygame.image.load('images/pinkgirl.png'),
+        'robot': pygame.image.load('images/robot.png'),
         'rock': pygame.image.load('images/Rock.png'),
         'short tree': pygame.image.load('images/Tree_Short.png'),
         'tall tree': pygame.image.load('images/Tree_Tall.png'),
@@ -97,7 +98,8 @@ def main():
         IMAGESDICT['boy'],
         IMAGESDICT['catgirl'],
         IMAGESDICT['horngirl'],
-        IMAGESDICT['pinkgirl']
+        IMAGESDICT['pinkgirl'],
+        IMAGESDICT['robot']
     ]
 
     startScreen()  # Mostra a tela de título até o usuário pressionar uma tecla
