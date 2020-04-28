@@ -3,4 +3,4 @@
 Puzzle Game
 
 ## Tela
-![Tela](/images/screen.png)
+![Tela](/images/screen.PNG)
